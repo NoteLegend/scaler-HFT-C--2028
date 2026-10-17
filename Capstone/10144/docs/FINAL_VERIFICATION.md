@@ -95,5 +95,18 @@ Profiling scope is user-only, process-wide. No reduced running percentages appea
 for active core counters. Atom entries and unresolved outer startup call-chain
 frames are disclosed. Flat symbol reports supplement call graphs; no claims
 attribute generator/clock work exclusively to book operations. No memory or tail
-latency guarantee is claimed. Required work is ready for submission; GitHub
-branch/PR confirmation follows the commit/push step.
+latency guarantee is claimed. Required work is ready for review.
+
+## GitHub submission confirmation
+
+[PR #132](https://github.com/KnightKnight27/scaler-HFT-C--2028/pull/132) was
+created and inspected via direct GitHub API calls. It is OPEN and not a draft.
+Destination: `KnightKnight27/scaler-HFT-C--2028:main`; source:
+`NoteLegend/scaler-HFT-C--2028:capstone/10144-order-book`. The pushed source commit
+was confirmed against the local branch. The paginated files API confirms all
+145 changed files are inside `Capstone/10144/`; no builds, profiling data or
+course files are included. GitHub reports mergeable state `clean`. No CI checks
+are configured (`statusCheckRollup` is empty); this is not a claimed CI pass.
+The submission was neither merged nor self-approved. No required work remains
+blocked. This final documentation update leaves measured code, flags and evidence
+unchanged; source/binary hash identities remain the provenance anchor.

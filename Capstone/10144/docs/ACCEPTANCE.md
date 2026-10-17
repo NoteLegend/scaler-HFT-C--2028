@@ -37,7 +37,7 @@ to linked evidence; profiling restrictions are disclosed rather than presumed.
 | Student identity and submission directory | README: Rushi Jadhav, SST email,10144; individual | isolated Capstone/10144 only | PASS |
 | Reproduce scripts preserve failures, no bulky data/secrets | scripts, local .gitignore | git scope / staged file check | PASS |
 | Fresh intended-files build; README commands/links | FINAL_VERIFICATION | clean temp build+verify+smokes and relative link check | PASS |
-| Commit, push fork branch, PR to upstream main | authorized fork; branch capstone/10144-order-book | PR inspected after creation; final response has URL/SHA | Complete only after GitHub confirmation |
+| Commit, push fork branch, PR to upstream main | authorized fork; branch capstone/10144-order-book | [PR #132](https://github.com/KnightKnight27/scaler-HFT-C--2028/pull/132), paginated 145-file scope check, no CI configured | PASS; ready for review |
 
 Counter unavailability is explicitly permitted in the PDF FAQ if working counters
 and limitations are reported; it is not permission to fabricate data. Report
